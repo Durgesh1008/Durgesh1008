@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Durgesh Chaudhary
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Front_End
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
