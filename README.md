@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Durgesh Chaudhary
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently Work on  MERN Projects
+- 👀 I’m interested in MERN STACK AND SWIFT & SWIFT UI.
+- 🌱 I’m currently Work on  IOS Applications 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
